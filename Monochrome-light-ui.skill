@@ -1,0 +1,11 @@
+{
+  "name": "Monochrome-light-ui",
+  "description": "Generates a lightweight, monochrome (grayscale) user interface theme for a given business category. Produces UI specifications (form layouts, dashboard widgets, color palettes) in a minimal grayscale style, suitable for low‑power displays or accessibility. Outputs JSON/YAML theme definitions and optional Flutter/Dart widget skeletons. Use --include to request specific UI sections such as Forms, Dashboards, or Portals.",
+  "version": "1.0.0",
+  "author": "Zainpreneur",
+  "examples": [
+    "/ui-compiler Plant nursery --theme monochrome-light",
+    "/ui-compiler Multi‑branch laundry management --include Forms,Dashboards --theme monochrome-light",
+    "/skill Monochrome-light-ui   # load the skill before using /ui-compiler with the theme flag"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "academia-ui-dark",
+  "description": "Generates a dark-themed user interface for academic institutions (courses, departments, faculty, students, research projects). Provides UI specifications for dashboards, student portals, faculty pages, and course management forms. Outputs JSON/YAML theme definitions and optional Flutter/Dart widget skeletons with a dark colour palette.",
+  "version": "1.0.0",
+  "author": "Zainpreneur",
+  "examples": [
+    "/ui-compiler Academia --theme academia-ui-dark",
+    "/ui-compiler Student portal --theme academia-ui-dark --include Forms,Dashboards",
+    "/skill academia-ui-dark   # load the skill before using /ui-compiler"
+  ]
+}
