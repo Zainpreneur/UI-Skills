@@ -1,0 +1,11 @@
+{
+  "name": "Modern Dark",
+  "description": "Generates a sleek dark-theme user interface for modern software products. Provides UI specifications for dashboards, user profiles, settings pages, and feature forms. Outputs JSON/YAML theme definitions and optional Flutter/Dart widget skeletons with a contemporary dark palette.",
+  "version": "1.0.0",
+  "author": "Zainpreneur",
+  "examples": [
+    "/ui-compiler ProductivityApp --theme Modern Dark",
+    "/ui-compiler Dashboard --theme Modern Dark --include Forms,Dashboards",
+    "/skill Modern Dark   # load the skill before using /ui-compiler"
+  ]
+}
