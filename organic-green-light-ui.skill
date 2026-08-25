@@ -1,0 +1,12 @@
+{
+  "name": "organic-green-light-ui",
+  "description": "Generates a light-themed user interface with a fresh organic green palette, ideal for nature-focused businesses (plant nurseries, farms, eco-stores, wellness brands). Provides UI specifications for product catalogs, dashboards, customer portals, and forms. Outputs JSON/YAML theme definitions and optional widget skeletons with soft greens, earth tones, and high readability.",
+  "version": "1.0.0",
+  "author": "Zainpreneur",
+  "examples": [
+    "/ui-compiler Plant nursery --theme organic-green-light-ui",
+    "/ui-compiler Urban farm --theme organic-green-light-ui --include Forms,Dashboards",
+    "/ui-compiler Eco store --theme organic-green-light-ui --include Catalog,Portals",
+    "/skill organic-green-light-ui   # load the skill before using /ui-compiler"
+  ]
+}
