@@ -1,5 +1,5 @@
 {
-  "name": "Modern Dark",
+  "name": "modern-dark-ui",
   "description": "Generates a sleek dark-theme user interface for modern software products. Provides UI specifications for dashboards, user profiles, settings pages, and feature forms. Outputs JSON/YAML theme definitions and optional Flutter/Dart widget skeletons with a contemporary dark palette.",
   "version": "1.0.0",
   "author": "Zainpreneur",
